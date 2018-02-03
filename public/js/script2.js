@@ -1,7 +1,7 @@
 $(document).on('ready', function(){
   var arr = ['Quentin halsey', 'Eric Halsey'];
 
-    $('#seach').autocomplete({
+    $('#search').autocomplete({
       source: arr
     });
 
