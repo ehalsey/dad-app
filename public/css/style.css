@@ -1,0 +1,17 @@
+#search-bar{
+  width: 200
+  margin: 40px;
+}
+
+.col-sm-3{
+  background-color: green;
+  text-align: center;
+  font-size: 75px;
+}
+
+#search{
+  margin: 20px;
+  text-align: center;
+  height: 30px;
+  width: 100%;
+}
